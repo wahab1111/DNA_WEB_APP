@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Default suite">
+  <test name="Default test" verbose="2">
+    <classes>
+      <class name="DNA_AUTOMATION.Login_Automation_case"/>
+      <class name="DNA_AUTOMATION.Locating_User"/>
+          <class name="DNA_AUTOMATION.Financial_DNA_Scores"/>
+      <class name="DNA_AUTOMATION.Uniuqe_Style"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->

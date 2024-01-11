@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-11T21:25:16 PKT" name="Default suite" finished-at="2024-01-11T21:37:59 PKT" duration-ms="762785">
+    <groups>
+    </groups>
+    <test started-at="2024-01-11T21:25:16 PKT" name="Default test" finished-at="2024-01-11T21:37:59 PKT" duration-ms="762785">
+      <class name="DNA_AUTOMATION.Locating_User">
+        <test-method signature="Locate_user()[pri:0, instance:DNA_AUTOMATION.Locating_User@19e4653c]" started-at="2024-01-11T21:27:13 PKT" name="Locate_user" finished-at="2024-01-11T21:30:29 PKT" duration-ms="196207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Locate_user -->
+      </class> <!-- DNA_AUTOMATION.Locating_User -->
+      <class name="DNA_AUTOMATION.Login_Automation_case">
+        <test-method signature="login_case()[pri:0, instance:DNA_AUTOMATION.Login_Automation_case@27406a17]" started-at="2024-01-11T21:25:16 PKT" name="login_case" finished-at="2024-01-11T21:27:13 PKT" duration-ms="117018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_case -->
+      </class> <!-- DNA_AUTOMATION.Login_Automation_case -->
+      <class name="DNA_AUTOMATION.Uniuqe_Style">
+        <test-method signature="Unique_Style()[pri:0, instance:DNA_AUTOMATION.Uniuqe_Style@53045c6c]" started-at="2024-01-11T21:33:59 PKT" name="Unique_Style" finished-at="2024-01-11T21:37:59 PKT" duration-ms="239425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Unique_Style -->
+      </class> <!-- DNA_AUTOMATION.Uniuqe_Style -->
+      <class name="DNA_AUTOMATION.Financial_DNA_Scores">
+        <test-method signature="Financial_DNA_Score()[pri:0, instance:DNA_AUTOMATION.Financial_DNA_Scores@795509d9]" started-at="2024-01-11T21:30:29 PKT" name="Financial_DNA_Score" finished-at="2024-01-11T21:33:59 PKT" duration-ms="210079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Financial_DNA_Score -->
+      </class> <!-- DNA_AUTOMATION.Financial_DNA_Scores -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
